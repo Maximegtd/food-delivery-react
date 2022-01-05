@@ -1,0 +1,6 @@
+1) Un composant RestaurantInfos => Afficher les informations du 
+RestaurantInfos
+  1.a) L'adresse va dans un nouveau composant
+2) Créer me composant PlatList => Afficher la liste des PlatList
+3) Créer le composant PlatListItem => Affiche un item de la liste 
+des PlatList
